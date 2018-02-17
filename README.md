@@ -1,3 +1,5 @@
+Welcome to the Team 11138 Website#
+
 Hello, this is FTC Team 11138 and we are from Bellevue, Washington. We all have a passion for robotics. We believe that through robotics and "Gracious Professionalism", we are all able to learn and collaborate in a welcoming learning environment.
 
 You can use the [editor on GitHub](https://github.com/ftccats/ftccats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -33,14 +35,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ftccats/ftccats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-You can contact the team from weipingh@live.com or NWROBOT1@gmaail.com
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.'
 
+
+================================
 Testcatmeow:3
-#Meow 
-##Reow 
-###MeowReow 
-###Cat facts 
--Cats cannot clearly see objects too close to their face 
--Cats typically do not meow to other cats
--Cats physically cannot succ
+# Meow 
+## Reow 
+### MeowReow 
+### Cat facts 
+- Cats cannot clearly see objects too close to their face 
+- Cats typically do not meow to other cats
+- Cats physically cannot succ
