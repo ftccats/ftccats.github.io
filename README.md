@@ -11,17 +11,20 @@ The site intends to explain the essentials of starting a team.
 
 Here are some links to some pages to get you started!
 (Add links to these)
-### Software
+### Hardware
 - Building your robot
 - Wiring your robot
+
+### Software
 - Programming your robot
 - Designing your robot
-### Hardware
+
 ### Core Values
  - Engineering notebook
  - Outreach
-### [More resources](https://ftccats.github.io/resources)
-
+ 
+### More resources
+ - [Helpful Links](https://ftccats.github.io/resources)
 You can use the [editor on GitHub](https://github.com/ftccats/ftccats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
