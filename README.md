@@ -9,6 +9,19 @@ The site intends to explain the essentials of starting a team.
 - Share First Hand Experience to overcome typical setup technical challenges. 
 - The process and best practices to set up the team.  
 
+Here are some links to some pages to get you started!
+(Add links to these)
+### Software
+- Building your robot
+- Wiring your robot
+- Programming your robot
+- Designing your robot
+### Hardware
+### Core Values
+ - Engineering notebook
+ - Outreach
+### [More resources](https://ftccats.github.io/resources)
+
 You can use the [editor on GitHub](https://github.com/ftccats/ftccats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -46,12 +59,3 @@ You can contact us at weipingh@live.com
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.'
 
 
-================================
-Testcatmeow:3
-# Meow 
-## Reow 
-### MeowReow 
-### Cat facts 
-- Cats cannot clearly see objects too close to their face 
-- Cats typically do not meow to other cats
-- Cats physically cannot succ
