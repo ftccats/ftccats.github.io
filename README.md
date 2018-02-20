@@ -25,6 +25,7 @@ Here are some links to some pages to get you started!
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
+
 You can use the [editor on GitHub](https://github.com/ftccats/ftccats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
