@@ -11,3 +11,6 @@
    - Android Studio
    - Markdown
    
+For faster builds, increase the maximum heap size for the Gradle daemon to at least 1536 MB.
+To do this set org.gradle.jvmargs=-Xmx1536M in the project gradle.properties.
+For more information see https://docs.gradle.org/current/userguide/build_environment.html
