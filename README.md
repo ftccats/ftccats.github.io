@@ -11,8 +11,7 @@ The site intends to explain the essentials of starting a team.
 
 Here are some links to some pages to get you started!
 (Add links to these)
-### Hardware
-- Hardware Introduction(https://ftccats.github.io/Hardware_Intro)
+### [Hardware](https://ftccats.github.io/Hardware_Intro)
 - Building your robot
 - Wiring your robot
 
