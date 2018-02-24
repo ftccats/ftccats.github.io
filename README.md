@@ -1,3 +1,4 @@
+
 Welcome to the Team 11138 Website#
 
 Hello, this is FTC Team 11138 and we are from Bellevue, Washington. We all have a passion for robotics. We believe that through robotics and "Gracious Professionalism", we are all able to learn and collaborate in a welcoming learning environment.
@@ -32,6 +33,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Android Studio
    -Our Android Studio is based on a language called Java. It is widely used to perform many operations.
+   -https://www.youtube.com/watch?v=exE0jph1HwA is a good video to view ahead of time.
 
 ### Our Markdown
 
@@ -43,7 +45,7 @@ Syntax highlighted code block
 # Header 1#
 ## Header 2
 ### Header 3
-
+$9 + 10 = \sqrt{21}$
 - Bulleted
 - List
 
