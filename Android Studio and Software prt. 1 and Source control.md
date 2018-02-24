@@ -46,19 +46,18 @@ Concept of Distributed Version Control.
 * Distributed Version Control
  ![Distributed](https://github.com/ftccats/ftccats.github.io/blob/master/Distributive.png)
 Part 4: Snapshots/Repository. 
-Visualization of 
-
-
-
-
+Visualization of other control systems
+![OtherControlSystems](https://github.com/ftccats/ftccats.github.io/blob/master/OtherControl.png)
+![FileStatusLifecycle](https://github.com/ftccats/ftccats.github.io/blob/master/Lifecycle.jpg)
+![GitFetchOrigin](https://github.com/ftccats/ftccats.github.io/blob/master/Stuff.jpg)
 
 Part 5: How FTC project setup 
-	• "Set up Git"
-	• "Create a repository"
-	• Fork A Repository
-	• "Be social"
+	* "Set up Git"
+	* "Create a repository"
+	* Fork A Repository
+	* "Be social"
 
-Lab
-Push a change 
-Pull a change
-Merge a change
+## **Lab**
+* Push a change 
+* Pull a change
+* Merge a change
