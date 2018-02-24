@@ -1,4 +1,4 @@
-## The hardware of a robot is comprised of mechanical engineering and electronic engineering.
+## The hardware of a robot is the physical composition, with all the differnt attachments and electronics
 #### Mechanical Engineering:
   Mechanical engineering is the discipline that applies the principles of engineering, physics, and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery.  
   For a better performance of the robot, the mechanical design is crucial. The mechanical design of a robot can decide the accuracy and efficiency during performances. 
