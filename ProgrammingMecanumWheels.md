@@ -36,3 +36,9 @@ rightRear.setPower(v4);
   Now for the complicated part. The first thing that should be noticed is that because the left term (ex.Math.cos(robotAngle)) of the equation never should be affected by turning, the wheels diagonal to each other will have the same value for this left term. Secondly, if the left analog stick is moved to its rightmost, leftmost, topmost, or bottommost position, the "robotAngle" will be a variant of 45 degrees, meaning that the cos and sin have the same absolute value. This should happen, as if they didn't, that would mean the powers going to the motor aren't equal, resulting in the robot moving diagonally. Thirdly, note that moving the joystick between these points will result in the robot moving at an angle between these two values.  
   If the explanation is unclear, simply plug in a few angles for where the left joystick is assuming the right joystick doesn't exist. You should find that the direction the robot is predicted to move should more or less match the direction the joystick is pointed in.
 If you still don't understand, go ahead and use the code anyway, as you don't need to know exactly how the code works right now, or click [here](http://thinktank.wpi.edu/resources/346/ControllingMecanumDrive.pdf) for another explanation of how the drive works.
+## Works Cited
+https://www.youtube.com/watch?v=Ne09Y72zW_Y  
+https://ftcforum.usfirst.org/forum/ftc-technology/android-studio/6361-mecanum-wheels-drive-code-example  
+https://www.tutorialspoint.com/java/number_atan2.htm  
+http://thinktank.wpi.edu/resources/346/ControllingMecanumDrive.pdf
+
