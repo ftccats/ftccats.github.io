@@ -8,6 +8,6 @@
   * [Mechanisms](https://www.youtube.com/playlist?list=PLhoXNQqrCmEfAaTf0AfQ1Ztxmz2DoZiCk)
   * [Popular Videos - Mechanical Engineering & Machine](https://www.youtube.com/playlist?list=PLu47uXiGePcbILxknLico8Vp0J4pyS2sL)
 #### Electrical Engineering:
-  Electrical engineering is a field of engineering that generally deals with the study and application of electricity, electronics. It is the branch of engineering that deals with how the electronics of a robot. If a robot is not wired properly, issues can arise.
-  To understand more about electrical engineering, you can watch the following video:
+  Electrical engineering is a field of engineering that generally deals with the study and application of electricity, electronics. It is the branch of engineering that deals with how the electronics of a robot. If a robot is not wired properly, issues can arise.  
+  To understand more about electrical engineering, you can watch the following video:  
   * [Electronics Tutorial](https://www.youtube.com/watch?v=XYJ_AUOw4aE)
