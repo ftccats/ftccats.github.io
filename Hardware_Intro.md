@@ -1,5 +1,5 @@
 ## What is Hardware Design?
-### The hardware of a robot is the physical composition, with all the different attachments and electronics
+### The hardware of a robot is the robot's physical composition, with all the different attachments and electronics
 #### Mechanical Engineering:
   Mechanical engineering is the discipline that applies the principles of engineering, physics, and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery.  
   The hardware design of a robot is usually comprised of the chassis, drive train and other possible attachments. 
