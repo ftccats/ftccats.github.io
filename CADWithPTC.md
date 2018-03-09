@@ -1,3 +1,9 @@
+If you want to start to CAD, these are the necessary materials
+Necessary materials:  
+In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
+For a full list, [click here.][Full list]
+
+[Full list]:http://support.ptc.com/partners/hardware/current/support.htme
 Click here to download [the PTC tool][PTC Download].  
 First you want to make an account. Fill out the boxes, and submit. You will recieve an email to establish your account. When you have finished registering your account, click the link following Installation Instructions. It will bring you to another page, where you will want to click the first link. From there, click the download manager for the 4.0 Win 64 DVD. Wait for the folder to download, then you can start to CAD!
 
@@ -22,11 +28,7 @@ It includes instructions on how to print the model you made, and how to precisel
 Here is a [youtube link][CAD Manufacturing] about additive manufacturing.
 
 [CAD Manufacturing]:https://www.youtube.com/watch?v=nDqXjzOPAco&ebc=ANyPxKrQNzQ1I8DLLu47pC4N914qu6cSMFJEksgbNdCqEOlW_nhpvEw7m5BYyJAtPns_SbhHI8_1t-5KUwzXqMue25JxLz7L3g
-Necessary materials:  
-In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
-For a full list, [click here.][Full list]
 
-[Full list]:http://support.ptc.com/partners/hardware/current/support.htme
 Some common problems are if there is a [license error][License error], or if the [license expired][License expired], or if the [placement tab][Placement] isn't showing.
 If that happens to you, just click on one of the links, and it will help you fix it.
 
