@@ -1,5 +1,5 @@
 # Range Sensor
-###Chode is Shown Here:
+Chode is Shown Here:
 
 ```java
 /* Copyright (c) 2017 FIRST. All rights reserved.
