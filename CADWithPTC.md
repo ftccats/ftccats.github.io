@@ -29,7 +29,7 @@ Here is a [youtube link][CAD Manufacturing] about additive manufacturing.
 
 [CAD Manufacturing]:https://www.youtube.com/watch?v=nDqXjzOPAco&ebc=ANyPxKrQNzQ1I8DLLu47pC4N914qu6cSMFJEksgbNdCqEOlW_nhpvEw7m5BYyJAtPns_SbhHI8_1t-5KUwzXqMue25JxLz7L3g
 
-Some common problems are if there is a [license error][License error], or if the [license expired][License expired], or if the [placement tab][Placement] isn't showing.
+Some common problems are: If there is a [license error][License error], or if the [license expired][License expired], or if the [placement tab][Placement] isn't showing.
 If that happens to you, just click on one of the links, and it will help you fix it.
 
 [License error]:https://www.ptcusercommunity.com/thread/136160
