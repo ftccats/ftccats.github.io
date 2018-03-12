@@ -5,10 +5,10 @@
    
    $$9 + 10 = 21$$
    
-   -[awesome page for programmiing] http://ftctechnh.github.io/ftc_app/doc/javadoc/index.html
+   -[awesome page for programming] http://ftctechnh.github.io/ftc_app/doc/javadoc/index.html
    
 **Coding Languages Used**
-   - Android Studio
+   - Java
    - Markdown
    
 For faster builds, increase the maximum heap size for the Gradle daemon to at least 1536 MB.
