@@ -3,8 +3,7 @@
   A popular alternative to the standard tetrix wheels is Mecanum Wheels. More about the advantages of these wheels can be found in the Hardware section. In short, they allow for your robot to move sideways and diagonally without turning.
 However, Mecanum Wheels are more difficult to program, especially if you want to utilize their full functionality.
 Movement forward and backwards along with turning remain the same as standard wheels. However, to move sideways, you must rotate two wheels on one side of the robot towards each other and rotate two wheels of the other side of the robot away from each other. The robot will move towards the side with the wheels facing inward. [Click Here](https://www.youtube.com/watch?v=Ne09Y72zW_Y) for a demonstration. If you only want sideways movement, it won't be too difficult to program. Simply use a tank drive program on the joysticks and bind sideways movement to the d_pad.  
-![Mecanum Wheel Explanation](https://ftccats.github.io/ForwardAndBackwardWheels.png)
-![Mecanum Wheel Explanation cont.](https://ftccats.github.io/MecanumWheelExplanation2.png)
+![Mecanum Wheel Explanation](https://ftccats.github.io/MecanumWheelExplanation.png)
 Here's an example for binding leftward movement to the left key of the dpad:  
 ```
 if(gamepad1.dpad_left.isPressed){
