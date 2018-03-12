@@ -1,5 +1,5 @@
 # Range Sensor
-The code is Shown Here:
+The Code Is Shown Here:
 
 ```java
 /* Copyright (c) 2017 FIRST. All rights reserved.
