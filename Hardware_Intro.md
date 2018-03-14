@@ -21,8 +21,7 @@ During the process of building the robot, selections of the materials are crucia
   To understand more about electrical engineering, you can watch the following video:  
   * [Electronics Tutorial](https://www.youtube.com/watch?v=XYJ_AUOw4aE)
   
-  The electrical engineering of a robot can also include the different sensors that are used on the robot. THe different sensors are as follows:
+  The electrical engineering of a robot can also include the different sensors that are used on the robot. The different sensors are as follows:
   * [Range Sensor](https://ftccats.github.io/RangeSensor)
   * [Color Sensor]
-  
-  We also compared different sensors to see which ones would accomplish their purpose the best. Click [here] to view the pros and cons.
+  * [Gyro Sensor]
