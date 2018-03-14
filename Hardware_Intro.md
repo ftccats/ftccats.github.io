@@ -8,7 +8,7 @@ For a better performance of the robot, the mechanical design is crucial. The mec
   * [Popular Videos - Mechanical Engineering & Machine](https://www.youtube.com/playlist?list=PLu47uXiGePcbILxknLico8Vp0J4pyS2sL)
   
 The hardware design of a robot is usually comprised of the chassis, drive train and other possible attachments. Here are some resources to have a better understanding of each section of the robot:
-* [Chassis]
+* [Chassis](https://ftccats.github.io/Chassis)
 * [Drive Train]
 * [Attachments]
 
