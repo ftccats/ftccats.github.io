@@ -16,7 +16,7 @@ Here are some links to some pages to get you started!
 - Wiring your robot
 
 ### [Software](https://ftccats.github.io/Software_Intro)
-- Programming your robot
+- [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
 - Designing your robot
 
 ### Core Values
