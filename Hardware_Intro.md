@@ -17,7 +17,7 @@ During the process of building the robot, selections of the materials are crucia
 * [Gears vs. Chains]
 * [Servos vs. Motors]
 #### Electrical Engineering:
-  Electrical engineering is a field of engineering that generally deals with the study and application of electricity, electronics. It is the branch of engineering that deals with how the electronics of a robot. Here is an example of an electrical engineering example: If a robot is not wired properly, issues can arise.  
+  Electrical engineering is a field of engineering that generally deals with the study and application of electricity, electronics. It is the branch of engineering that deals with how the electronics of a robot. Here is an example of an electrical engineering: If a robot is not wired properly, issues can arise.  
   To understand more about electrical engineering, you can watch the following video:  
   * [Electronics Tutorial](https://www.youtube.com/watch?v=XYJ_AUOw4aE)
   
