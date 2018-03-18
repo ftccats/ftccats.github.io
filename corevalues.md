@@ -27,4 +27,5 @@ public class FTCSpirit {
       GraciousProfessionalism robotics = new GraciousProfessionalism("Core Values");
       return this.robotics > 0;
    }
+}
 ~~~~
