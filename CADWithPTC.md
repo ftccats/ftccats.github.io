@@ -1,6 +1,4 @@
-If you want to start to CAD, these are the necessary materials
-Necessary materials:  
-In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
+In order to start cadding, you need to make sure to have the necessary materials. In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
 For a full list, [click here.][Full list]
 
 [Full list]:http://support.ptc.com/partners/hardware/current/support.htm
