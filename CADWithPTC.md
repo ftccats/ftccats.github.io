@@ -1,4 +1,4 @@
-In order to start cadding, you need to make sure to have the necessary materials. In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
+In order to start to cad, you need to make sure to have the necessary materials. In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
 For a full list, [click here.][Full list]
 
 [Full list]:http://support.ptc.com/partners/hardware/current/support.htm
@@ -16,9 +16,6 @@ Click [here][PTC download for FTC] to download the module for FTC.
 You can go ahead and download all the files you want. Make sure you do this, otherwise you can't use anything to build the CAD out of.
 
 [PTC download for FTC]:http://www.catalogds.com/db/service?d=first&c=browse
-[Here are Jaime's thoughts on designing and making with CAD.][Jaime's thoughts on CAD]
-
-[Jaime's thoughts on CAD]:https://m.youtube.com/watch?v=1p-oAyymw1M
 [This is a link with PTC Creo in action][PTC Action]
 It includes instructions on how to print the model you made, and how to precisely make geometry. 
 
