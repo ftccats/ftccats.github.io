@@ -19,7 +19,9 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * [Gears vs. CHains]
     * [CAD]
 - [Wiring your robot]
-
+    * [Range Sensor](https://ftccats.github.io/RangeSensor)
+    * [Color Sensor]
+    * [Gyro Sensor]
 ### [Software](https://ftccats.github.io/Software_Intro)
 - [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
