@@ -13,6 +13,8 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * [CAD](https://ftccats.github.io/CADWithPTC)
     * [Chassis](https://ftccats.github.io/Chassis)
     * [Drive Train]
+    * [Attachments]
+    * [
 - [Wiring your robot]
 
 ### [Software](https://ftccats.github.io/Software_Intro)
