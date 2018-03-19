@@ -29,3 +29,9 @@ public class FTCSpirit {
    }
 }
 ~~~~
+
+What we'd love to do is help other teams learn. When teams are learning, it means that we are learning too. That would show that we can create a good learning environment for everybody in our circles. 
+
+[Outreach](http://ftccats.github.io/outreach)
+
+[Gracious Professionalism](http://ftccats.github.io/graciousprofessionalism)
