@@ -14,13 +14,16 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * [Chassis](https://ftccats.github.io/Chassis)
     * [Drive Train]
     * [Attachments]
-    * [
+    * [Wheels]
+    * [Servos vs. Motors]
+    * [Gears vs. CHains]
+    * [CAD]
 - [Wiring your robot]
 
 ### [Software](https://ftccats.github.io/Software_Intro)
 - [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
-- 
+- [PTC Creo]
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - [Engineering notebook]
  - [Outreach](https://ftccats.github.io/Outreach)
