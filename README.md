@@ -16,7 +16,7 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
 - [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
 - 
-### [Meta]
+### [Meta](https://ftccats.github.io/Intro_Meta)
  - [Engineering notebook]
  - [Outreach](https://ftccats.github.io/Outreach)
  - [Core Values](https://ftccats.github.io/corevalues)
