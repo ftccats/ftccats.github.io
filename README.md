@@ -9,16 +9,17 @@ This site intends to explain the essentials of starting a team.
 
 Here are is a brief overview of teh website layout. We hope you have an enjoyable experience browsing through the website!
 ### [Hardware](https://ftccats.github.io/Hardware_Intro)
-- [Building your robot]
+- [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
 - [Wiring your robot]
 
 ### [Software](https://ftccats.github.io/Software_Intro)
+- [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
-- [Designing your robot]
-
-### Core Values
+- 
+### [Meta]
  - [Engineering notebook]
  - [Outreach](https://ftccats.github.io/Outreach)
+ - [Core Values](https://ftccats.github.io/corevalues)
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
