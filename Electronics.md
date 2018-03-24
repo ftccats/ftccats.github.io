@@ -19,4 +19,11 @@ Learn about basic Core Power Distribution Module Wiring:
 ### General Wiring Tips
 * If something is not working, make sure when you configure the robot, you set the correct ports to the correct things.
 * Make sure the wires are plugged in correctly and not loose, correctly means the color to itself. As in red to red, black to black, etc. Also, white sometimes goes to yellow.
-* Label your wires, label both ends the samething, preferably what you named it in the program.
+* Label your wires, label both ends the same thing, preferably what you named it in the program.
+
+If REV Expansion Hub does not have enough ports for your robot, you can connect both of them together!
+
+How to connect them:
+[Connecting REV Hubs](https://www.youtube.com/watch?v=7rbLDden-Rs)
+
+### 
