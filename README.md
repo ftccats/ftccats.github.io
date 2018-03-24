@@ -1,4 +1,4 @@
-Welcome to the Team 11138 Website#
+Welcome to the Team 11138 Website
 
 Hello, this is FTC Team 11138 and we are from Bellevue, Washington. We all have a passion for robotics. We believe that through robotics and "Gracious Professionalism", we are all able to learn and collaborate in a welcoming learning environment.
 We are team 11138 Robo Eclipse and we participate in the FIRST Tech Challenge. We are comprised of seven unique members that all share a passion for robotics.FIRST Tech Challenge is a great program which inspires kids to solve engineering challenges. FTC not only helps participants improve their technical skill, it also helps students develop better people skills, through outreach and collaboration between team members.   
@@ -53,7 +53,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1#
+# Header 1
 ## Header 2
 ### Header 3
 
