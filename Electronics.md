@@ -1,7 +1,7 @@
 # **Electronics**
-#### Power Distribution Modules
+### Power Distribution Modules
 There are two different types of power distribution modules, or the main thing that distributes the software.
-There is the REV one, and the modern robotics one.
+There is the REV one (REV Expansion Hub), and the modern robotics one (Core Power Distribution Module).
 The REV one have the wiring ports of motors, sensors, servos, etc. all one the same board, also it has 4 motor ports.
 The modern robtics one distributes it to many different other modules.
 The other modules includes motor controller, servo controller, device interface, and the legacy module.
