@@ -30,6 +30,7 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
  - [Engineering notebook]
  - [Outreach](https://ftccats.github.io/Outreach)
  - [Core Values](https://ftccats.github.io/corevalues)
+      * [Gracious Professionalism]
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
