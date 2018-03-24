@@ -18,7 +18,7 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * [Servos vs. Motors]
     * [Gears vs. CHains]
     * [CAD]
-- [Wiring your robot]
+- [Electronics](https://ftccats.github.io/Electronics)
     * [Range Sensor](https://ftccats.github.io/RangeSensor)
     * [Color Sensor]
     * [Gyro Sensor]
