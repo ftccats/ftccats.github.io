@@ -7,34 +7,34 @@ This site intends to explain the essentials of starting a team.
 - Share First Hand Experience to overcome typical setup technical challenges. 
 - The process and best practices to set up the team.  
 
-Here are is a brief overview of teh website layout. We hope you have an enjoyable experience browsing through the website!
+Here are is a brief overview of the website layout. We hope you have an enjoyable experience browsing through the website!
 ### [Hardware](https://ftccats.github.io/Intro_Hardware)
-- Building your robot
-    * CAD
-    * Chassis
+- [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
+    * [CAD](https://ftccats.github.io/CADWithPTC)
+    * [Chassis](https://ftccats.github.io/Chassis)
     * Drive Train
     * Attachments
 - Electronics
-    * Range Sensor
+    * [Range Sensor](https://ftccats.github.io/RangeSensor)
     * Color Sensor
     * Gyro Sensor  
     
 ### [Software](https://ftccats.github.io/Intro_Software)
 - Downloading Android Studio
-- Programming your robot
-- PTC Creo  
+- [Programming your robot](https://ftccats.github.io/ProgrammingBasics)
+- [PTC Creo](https://ftccats.github.io/CADWithPTC)  
 
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - Engineering notebook
- - Outreach
- - Core Values
+ - [Outreach](https://ftccats.github.io/Outreach)
+ - [Core Values](https://ftccats.github.io/corevalues)
  - Gracious Professionalism
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
 
 ### Support or Contact
-You can contact us at ftccats@gmail.com
+You can contact us at ftccats@gmail.com, [instagram](https://www.instagram.com/roboeclipse_ftc/), and [twitter](https://twitter.com/Roboeclipse_ftc)
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.'
 
 
