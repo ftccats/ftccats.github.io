@@ -25,8 +25,3 @@ If REV Expansion Hub does not have enough ports for your robot, you can connect 
 
 How to connect them:
 [Connecting REV Hubs](https://www.youtube.com/watch?v=7rbLDden-Rs)
-
-### References
-This is more information regarding sensors, motors, servos, and power distribution modules. This is the 2017-18 one.
-
-[Engineering Notebook About Electronics](https://github.com/ftccats/ftccats.github.io/blob/master/11138-Electronics.docx)
