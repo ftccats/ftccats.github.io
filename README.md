@@ -12,7 +12,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
 - [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
     * [CAD](https://ftccats.github.io/CADWithPTC)
     * [Chassis](https://ftccats.github.io/Chassis)
-    * Drive Train
+    * [Drive Train](https://ftccats.github.io/drivetrain)
     * Attachments
 - Electronics
     * [Range Sensor](https://ftccats.github.io/RangeSensor)
@@ -20,7 +20,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
     * Gyro Sensor  
     
 ### [Software](https://ftccats.github.io/Intro_Software)
-- Downloading Android Studio
+- [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingBasics)
 - [PTC Creo](https://ftccats.github.io/CADWithPTC)  
 
@@ -28,13 +28,13 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
  - Engineering notebook
  - [Outreach](https://ftccats.github.io/Outreach)
  - [Core Values](https://ftccats.github.io/corevalues)
- - Gracious Professionalism
+ - [Gracious Professionalism](https://ftccats.github.io/graciousprofessionalism)
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
 
 ### Support or Contact
-You can contact us at ftccats@gmail.com, [instagram](https://www.instagram.com/roboeclipse_ftc/), and [twitter](https://twitter.com/Roboeclipse_ftc)
+You can contact us at ftccats@gmail.com, [instagram](https://www.instagram.com/roboeclipse_ftc/), and [twitter](https://twitter.com/Roboeclipse_ftc)  
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.'
 
 
