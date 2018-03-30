@@ -18,10 +18,12 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * Range Sensor
     * Color Sensor
     * Gyro Sensor  
+    
 ### [Software](https://ftccats.github.io/Intro_Software)
 - Downloading Android Studio
 - Programming your robot
 - PTC Creo  
+
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - Engineering notebook
  - Outreach
