@@ -9,7 +9,7 @@ For a better performance of the robot, the mechanical design is crucial. The mec
   
 The hardware design of a robot is usually comprised of the chassis, drive train and other possible attachments such as an arm or chain mechanism. Here are some resources to have a better understanding of each section of the robot:
 * [Chassis](https://ftccats.github.io/Chassis)
-* [Drive Train]
+* [Drive Train](https://ftccats.github.io/drivetrain)
 * [Attachments]
 
 During the process of building the robot, selections of the materials are crucial to the performance of the robot. Some materials provide benefits that others do not. The following links will take you through the pros and cons of some of the common materials used on the FTC robots:
