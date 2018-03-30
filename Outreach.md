@@ -5,5 +5,5 @@ Here are some examples of outreach if you are at a loss of what to do:
 * Hold scrimmages with other teams
 * Hold camps for youngsters
 * Participate in local STEM events
-* Hold informational meetings
+* Hold informational meetings  
 We hope that you have a fun experience in reaching out to the community.
