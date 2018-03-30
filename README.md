@@ -8,7 +8,7 @@ This site intends to explain the essentials of starting a team.
 - The process and best practices to set up the team.  
 
 Here are is a brief overview of teh website layout. We hope you have an enjoyable experience browsing through the website!
-### [Hardware](https://ftccats.github.io/Hardware_Intro)
+### [Hardware](https://ftccats.github.io/Intro_Hardware)
 - Building your robot
     * CAD
     * Chassis
@@ -18,7 +18,7 @@ Here are is a brief overview of teh website layout. We hope you have an enjoyabl
     * Range Sensor
     * Color Sensor
     * Gyro Sensor
-### [Software](https://ftccats.github.io/Software_Intro)
+### [Software](https://ftccats.github.io/Intro_Software)
 - Downloading Android Studio
 - Programming your robot
 - PTC Creo
