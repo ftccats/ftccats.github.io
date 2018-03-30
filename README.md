@@ -9,71 +9,27 @@ This site intends to explain the essentials of starting a team.
 
 Here are is a brief overview of teh website layout. We hope you have an enjoyable experience browsing through the website!
 ### [Hardware](https://ftccats.github.io/Hardware_Intro)
-- [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
-    * [CAD](https://ftccats.github.io/CADWithPTC)
-    * [Chassis](https://ftccats.github.io/Chassis)
-    * [Drive Train]
-    * [Attachments]
-    * [Wheels]
-    * [Servos vs. Motors]
-    * [Gears vs. CHains]
-    * [CAD]
-- [Electronics](https://ftccats.github.io/Electronics)
-    * [Range Sensor](https://ftccats.github.io/RangeSensor)
-    * [Color Sensor]
-    * [Gyro Sensor]
+- Building your robot
+    * CAD
+    * Chassis
+    * Drive Train
+    * Attachments
+- Electronics
+    * Range Sensor
+    * Color Sensor
+    * Gyro Sensor
 ### [Software](https://ftccats.github.io/Software_Intro)
-- [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
-- [Programming your robot](https://ftccats.github.io/ProgrammingYourRobot)
-- [PTC Creo]
+- Downloading Android Studio
+- Programming your robot
+- PTC Creo
 ### [Meta](https://ftccats.github.io/Intro_Meta)
- - [Engineering notebook]
- - [Outreach](https://ftccats.github.io/Outreach)
- - [Core Values](https://ftccats.github.io/corevalues)
-      * [Gracious Professionalism](https://ftccats.github.io/graciousprofessionalism)
+ - Engineering notebook
+ - Outreach
+ - Core Values
+ - Gracious Professionalism
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
-
-You can use the [editor on GitHub](https://github.com/ftccats/ftccats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Android Studio
-   -Our Android Studio is based on a language called Java. It is widely used to perform many operations.
-   -https://www.youtube.com/watch?v=exE0jph1HwA is a good video to view ahead of time.
-   
-   
-   More at : https://ftccats.github.io/programming
-
-### Our Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-Also see [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ftccats/ftccats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 You can contact us at ftccats@gmail.com
