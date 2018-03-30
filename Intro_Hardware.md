@@ -16,13 +16,14 @@ During the process of building the robot, selections of the materials are crucia
 * [Wheels]
 * [Gears vs. Chains]
 * [Servos vs. Motors]
+
 #### Electrical Engineering:
   Electrical engineering is a field of engineering that generally deals with the study and application of electricity, electronics. It is the branch of engineering that deals with how the electronics of a robot. Here is an example of an electrical engineering: If a robot is not wired properly, issues can arise.  
   To understand more about electrical engineering, you can watch the following video:   
   * [Electronics Tutorial](https://www.youtube.com/watch?v=XYJ_AUOw4aE)   
   
   One of the main uses of electric engineering within FTC is for wiring your robot. Pages on this are:  
-  * [Distribution Module Guides](https://www.ftccats.github.io/WiringDistributionModules)  
+  * [Distribution Module Guides](https://ftccats.github.io/WiringDistributionModules)  
   
   The electrical engineering of a robot can also include the different sensors that are used on the robot. Some of these are:
   * [Range Sensor](https://ftccats.github.io/RangeSensor)
