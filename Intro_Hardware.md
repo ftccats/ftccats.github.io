@@ -22,7 +22,7 @@ During the process of building the robot, selections of the materials are crucia
   * [Electronics Tutorial](https://www.youtube.com/watch?v=XYJ_AUOw4aE)   
   
   One of the main uses of electric engineering within FTC is for wiring your robot. Pages on this are:  
-  * [Distribution Module Guides](https://www.ftccats.github.io/Electronics)  
+  * [Distribution Module Guides](https://www.ftccats.github.io/WiringDistributionModules)  
   
   The electrical engineering of a robot can also include the different sensors that are used on the robot. Some of these are:
   * [Range Sensor](https://ftccats.github.io/RangeSensor)
