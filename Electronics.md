@@ -8,7 +8,7 @@ The other modules includes motor controller, servo controller, device interface,
 The motor controller have 2 motor ports, the servo controller and device interface have a lot.
 
 REV Expansion Hub:
-![REV](https://github.com/ftccats/ftccats.github.io/blob/master/REVHub.png)
+![REV](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/REVHub.png)
 
 Core Power Distribution Module:
 ![PowerDistribution](https://github.com/ftccats/ftccats.github.io/blob/master/CorePowerDistribution.png)
