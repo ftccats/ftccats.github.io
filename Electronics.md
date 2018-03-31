@@ -25,3 +25,6 @@ If REV Expansion Hub does not have enough ports for your robot, you can connect 
 
 How to connect them:
 [Connecting REV Hubs](https://www.youtube.com/watch?v=7rbLDden-Rs)
+
+### SRS programmer
+The SRS programmer is a device that can limit the movement of a Smart Robot Servo. 
