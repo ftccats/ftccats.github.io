@@ -29,6 +29,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
  - [Outreach](https://ftccats.github.io/Outreach)
  - [Core Values](https://ftccats.github.io/corevalues)
  - [Gracious Professionalism](https://ftccats.github.io/graciousprofessionalism)
+ - [Controls Award](https://ftccats.github.io/ControlsAward)
  
 ### More resources
  - [Helpful Links](https://ftccats.github.io/resources)
