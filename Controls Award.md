@@ -11,4 +11,4 @@
 
 **Autonomous Program Diagrams:**
 
-![ControlsAward](https://github.com/ftccats/ftccats.github.io/blob/master/ControlsAward.PNG)
+![ControlsAward](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/ControlsAward.PNG)
