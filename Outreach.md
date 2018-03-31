@@ -7,3 +7,12 @@ Here are some examples of outreach if you are at a loss of what to do:
 * Participate in local STEM events
 * Hold informational meetings  
 We hope that you have a fun experience in reaching out to the community.
+
+Related
+=======
+
+[Core Values](https://ftccats.github.io/corevalues)
+
+[Gracious Professionalism](http://ftccats.github.io/graciousprofessionalism)
+
+[Basic Coding Tutorials](https://ftccats.github.io/ProgrammingBasics)
