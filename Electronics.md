@@ -27,4 +27,25 @@ How to connect them:
 [Connecting REV Hubs](https://www.youtube.com/watch?v=7rbLDden-Rs)
 
 ### SRS programmer
-The SRS programmer is a device that can limit the movement of a Smart Robot Servo. 
+The SRS programmer is a device that can limit the movement of a Smart Robot Servo.
+
+Some of its features are:
+* 3 programming modes
+1. Continuous rotation
+2. Angular limits
+3. Reset to factory defaults
+* Test modes
+1. Automatic sweep:  Press the test button once
+2. Manual position/direction: Press the test button twice
+3. Return to default: Press the test button three times
+There is a switch at the top, it is either c with stands for continuous, s stands for servo, or the range right now.
+![SRSProgrammer](https://github.com/ftccats/ftccats.github.io/blob/master/SRSProgrammer.jpeg)
+
+To change the range follow these steps:
+1. Connect the servo to the programmer
+2. Turn the programmer on and put it on servo mode, s on the top switch
+3. Manually rotate the servo to the wanted most left position, then press and release the left button, the left LED will illuminate if the poisition is valid
+4. Repeat step 3 for the desired right position
+5. After both LED lights of right and left have both illuminated once, press and release the program button. If the program LED blinks and then stays on, it indicates you successfully changed the servo range.
+
+For more information on the SRS Programmer, click [here](http://www.revrobotics.com/content/docs/REV-31-1108-UM.pdf)
