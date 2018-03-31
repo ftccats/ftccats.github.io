@@ -1,4 +1,16 @@
-# Range Sensor
+Range Sensor Overview
+=====================
+
+The Range Sensor has many different uses and applications. These applications may
+include the use of the range sensor to detect the placcement on the field, or the
+use of the Range Sensor to track the distance from an object. A distance can then
+be applied to improve autonomous code or make programming the robot a more simple
+task to perform.
+
+An image of a Rev Range Sensor is shown here.
+![alt text](https://github.com/ftccats/ftccats.github.io/blob/master/Distance%20Sensor.jpg)
+
+# Range Sensor Code Explanation
 The Code Is Shown Here:
 
 ```java
