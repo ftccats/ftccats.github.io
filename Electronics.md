@@ -11,7 +11,7 @@ REV Expansion Hub:
 ![REV](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/REVHub.png)
 
 Core Power Distribution Module:
-![PowerDistribution](https://github.com/ftccats/ftccats.github.io/blob/master/CorePowerDistribution.png)
+![PowerDistribution](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/CorePowerDistribution.png)
 
 Learn about basic Core Power Distribution Module Wiring:
 [Wiring Modern Robotics Power Distribution Module](https://www.youtube.com/watch?v=lbeAefQTZXQ)
@@ -39,7 +39,7 @@ Some of its features are:
 2. Manual position/direction: Press the test button twice
 3. Return to default: Press the test button three times
 There is a switch at the top, it is either c with stands for continuous, s stands for servo, or the range right now.
-![SRSProgrammer](https://github.com/ftccats/ftccats.github.io/blob/master/SRSProgrammer.jpeg)
+![SRSProgrammer](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/SRSProgrammer.jpeg)
 
 To change the range follow these steps:
 1. Connect the servo to the programmer
