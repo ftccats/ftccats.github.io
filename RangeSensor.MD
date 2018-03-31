@@ -79,3 +79,9 @@ public class SensorMROpticalDistance extends LinearOpMode {
 
 What the code does is utilize the fact that the OpMode is on, it will activate a forever loop
 that will scan light levels and record the dictance traveled.
+
+As displayed by comments, a new OpticalDistanceSensor is instantiated in order to create a 
+new OpticalDistanceSensor that will inherit the properties of a LinearOpMode. This will allow
+the program to inherit the proerties of LinearOpMode and will allow for DRY and very consistent
+procedural decomposition without having to repeat code. It would also make code more organized. 
+Adding on, the UML class diagram would be less cluttered and methds are easily identifiable.
