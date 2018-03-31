@@ -8,7 +8,7 @@ be applied to improve autonomous code or make programming the robot a more simpl
 task to perform.
 
 An image of a Rev Range Sensor is shown here.
-![alt text](https://github.com/ftccats/ftccats.github.io/blob/master/Distance%20Sensor.jpg)
+![alt text](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/Distance%20Sensor.jpg)
 
 # Range Sensor Code Explanation
 The Code Is Shown Here:
