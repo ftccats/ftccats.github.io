@@ -37,4 +37,4 @@ Related
 
 [Outreach](http://ftccats.github.io/Outreach)
 
-[Gracious Professionalism](http://ftccats.github.io/Graciousprofessionalism)
+[Gracious Professionalism](http://ftccats.github.io/graciousprofessionalism)
