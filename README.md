@@ -14,7 +14,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
     * [Chassis](https://ftccats.github.io/Chassis)
     * [Drive Train](https://ftccats.github.io/drivetrain)
     * Attachments
-- [Electronics](https://github.com/ftccats/ftccats.github.io/blob/master/Electronics.md)
+- [Electronics](https://ftccats.github.io/Electronics)
     * [Range Sensor](https://ftccats.github.io/RangeSensor)
     * Color Sensor
     * Gyro Sensor  
