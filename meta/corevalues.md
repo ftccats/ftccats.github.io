@@ -1,7 +1,7 @@
-# Core Values of FTC
+# Core Values of FIRST
 
-The FTC competition is not merely just to compete. It is an experience in which all can learn a life lesson from. Through the 
-FTC competition, it is expected that all teams display their gracious professionalism and be the best they can be as people. 
+The FIRST program is not merely just to compete with robots, it is a journey in which all can learn a life lesson from. Through the 
+FTC competition, display of gracious professionalism and be the best they can be as people is encouraged. 
 Being the best person is what the FTC competition is. The FTC competition is about motivating teammates and helping people learn. 
 Through being the best person we can be, we can create the best environment for us all to be able to learn.
 
