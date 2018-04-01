@@ -26,7 +26,9 @@ If REV Expansion Hub does not have enough ports for your robot, you can connect 
 How to connect them:
 [Connecting REV Hubs](https://www.youtube.com/watch?v=7rbLDden-Rs)
 
-### SRS programmer
+### Servo Info
+
+**SRS Programmer**
 The SRS programmer is a device that can limit the movement of a Smart Robot Servo.
 
 Some of its features are:
@@ -49,3 +51,12 @@ To change the range follow these steps:
 5. After both LED lights of right and left have both illuminated once, press and release the program button. If the program LED blinks and then stays on, it indicates you successfully changed the servo range.
 
 For more information on the SRS Programmer, click [here](http://www.revrobotics.com/content/docs/REV-31-1108-UM.pdf)
+
+**REV Hub Interface Software**
+
+REV Hub Interface is an app that you can get. It allows you to move things connected to the REV Hub, such as rotate motor/servo. For example, if you want to calibrate a servo or test the numbers you need for your program, your setup should include a battery, a expansion hub, and your servo with whatever attachment. Something like this: ![HubInterface](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/HubInterfaceThing.jpg)
+Plug the USB wire into your computer, then open your REV Hub Interface. If you don't have it and want to download it, click [here](http://www.revrobotics.com/rev-hub-interface-software/)
+After you open REV Hub Interface, click the connect button at the top.
+![Connect Button](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/Connect.PNG)
+After clicking the connect button, click the section where you want to do stuff in, in my case, the servo motor section. The servo motor section have a slide thing to change the orientation of the servo, so that you could know the numbers for the servo rotation. You can push the slide till the number is perfect because that number lets your servo claw hold something. There is a java number, which is the number used in code and a MS number.
+It should look something like this: ![Staff](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/Servo.PNG)
