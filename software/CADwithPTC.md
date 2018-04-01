@@ -24,7 +24,7 @@ It includes instructions on how to print the model you made, and how to precisel
 Here is a [youtube link][CAD Manufacturing] about additive manufacturing.
 
 [CAD Manufacturing]:https://www.youtube.com/watch?v=nDqXjzOPAco&ebc=ANyPxKrQNzQ1I8DLLu47pC4N914qu6cSMFJEksgbNdCqEOlW_nhpvEw7m5BYyJAtPns_SbhHI8_1t-5KUwzXqMue25JxLz7L3g
-### Common problems
+### Common Problems
 
 These are some common problems: If there is a [license error][License error], or if the [license expired][License expired], or if the [placement tab][Placement] isn't showing.
 If that happens to you, just click on one of the links, and it will help you fix it.
@@ -32,3 +32,5 @@ If that happens to you, just click on one of the links, and it will help you fix
 [License error]:https://www.ptcusercommunity.com/thread/136160
 [License expired]:http://apps.ptc.com/schools/references/relicense_creo3_schools_standard.pdf#_ga=2.135070449.1786481349.1496641299-326259183.1477715362
 [Placement]:https://community.ptc.com/t5/Additional-Creo-Questions/Placement-disapperaed/m-p/288454#M25236
+### CAD Examples
+
