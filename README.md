@@ -25,7 +25,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
 - [PTC Creo](https://ftccats.github.io/CADWithPTC)  
 
 ### [Meta](https://ftccats.github.io/Intro_Meta)
- - [Engineering notebook(Please Update)](https://frccats.github.io/EngineerBook)
+ - [Engineering notebook(Please Update)](https://ftccats.github.io/EngineerBook)
  - [Outreach](https://ftccats.github.io/Outreach)
  - [Core Values](https://ftccats.github.io/corevalues)
  - [Gracious Professionalism](https://ftccats.github.io/graciousprofessionalism)
