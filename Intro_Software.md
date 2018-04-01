@@ -6,14 +6,17 @@ We will be using quite a broad definitition of software. It will include program
 ## Programming Basics
 - [Intro to Programming](https://ftccats.github.io/software/ProgrammingBasics)
 - Intro to Android Studio (To be done)
+
 ## Advanced Programming
 - Updating your SDK (to be done)
 - [Programming Mecanum Wheels](https://ftccats.github.io/software/ProgrammingMecanumWheels)
 - Refactoring (to be done)
+
 ## Source Control
 - Benefits of Source Control (To be done)
 - Introduction to Github (To be done)
 - [Connecting Android Studio to Github](https://ftccats.github.io/software/SourceControlAndroidStudio)
+
 ## CAD Design
 - [Intro to CAD Design](https://ftccats.github.io/software/CADwithPTC)
 - 3D Printing (To be done)
