@@ -12,7 +12,7 @@ This is a [link][PTC Teach] to help teach you about how to CAD.
 Click on the How_to_model_almost_anything and it will automatically start to download. When you are finished, you can go over the instructions, and CAD.
 
 [PTC Teach]:http://www.ptc.com/academic-program/k-12-program/students/first/training
-Click [here][PTC download for FTC] to download the module for FTC. 
+Click [here][PTC download for FTC] to download the parts for FTC. 
 You can go ahead and download all the files you want. Make sure you do this, otherwise you can't use the pieces needed in CAD.
 
 [PTC download for FTC]:http://www.catalogds.com/db/service?d=first&c=browse
