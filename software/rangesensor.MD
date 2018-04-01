@@ -7,8 +7,27 @@ use of the Range Sensor to track the distance from an object. A distance can the
 be applied to improve autonomous code or make programming the robot a more simple
 task to perform.
 
+### Ultrasonic Sensor
+
+The ultrasonic element works by one of the transducers emitting a sound wave and the other receiving the sound wave. This reading is accurate between 5cm and approximately 255cm. Since the value returned is in units of centimeters, the return is linear. 
+
+### Optical Sensor
+
+The optical element works by emitting infrared light from on LED and receiving infrared light to the other LED. The optical value can detect objects within 15cm. As an object approaches the optical element the returned value will increase at an exponential rate. 
+
 An image of a Rev Range Sensor is shown here.
 ![alt text](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/Distance%20Sensor.jpg)
+
+# Implementation
+
+Since the Range Sensor combines the state and behavior of both the  ultrasonic and optical distance sensor Object, one should know the
+implementation for the Four Wire I2C Sensor.
+
+### Some things that should be noted:
+
+* The Optical Distance Sensor will come into play when it measures from 1 cm to 7 cm. The optical distance sensor loses accuracy when it goes farther than the given distance and instead the ultrasonic sensor will kick in and measure distance up to 255 cm. 
+* When implementing the Optical Distance Sensor, one could use a while-loop that tracks ticks and that would allow us to track
+distances.
 
 # Range Sensor Code Explanation
 The Code Is Shown Here:
