@@ -28,7 +28,7 @@ How to connect them:
 
 ### Servo Info
 
-**SRS Programmer**
+**_SRS Programmer_**
 The SRS programmer is a device that can limit the movement of a Smart Robot Servo.
 
 Some of its features are:
@@ -52,7 +52,7 @@ To change the range follow these steps:
 
 For more information on the SRS Programmer, click [here](http://www.revrobotics.com/content/docs/REV-31-1108-UM.pdf)
 
-**REV Hub Interface Software**
+**_REV Hub Interface Software_**
 
 REV Hub Interface is an app that you can get. It allows you to move things connected to the REV Hub, such as rotate motor/servo. For example, if you want to calibrate a servo or test the numbers you need for your program, your setup should include a battery, a expansion hub, and your servo with whatever attachment. Something like this: ![HubInterface](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/HubInterfaceThing.jpg)
 Plug the USB wire into your computer, then open your REV Hub Interface. If you don't have it and want to download it, click [here](http://www.revrobotics.com/rev-hub-interface-software/)
