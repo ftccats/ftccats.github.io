@@ -34,3 +34,5 @@ If that happens to you, just click on one of the links, and it will help you fix
 [Placement]:https://community.ptc.com/t5/Additional-Creo-Questions/Placement-disapperaed/m-p/288454#M25236
 ### CAD Examples
 
+Something I made on CAD was a spool. ![Spool](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/images/spool%20example.PNG)
+I 3d printed the spool and we used the 3d printed spool, which made it easier to make the slider move.
