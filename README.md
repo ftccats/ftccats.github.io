@@ -10,9 +10,9 @@ This site intends to explain the essentials of starting a team.
 Here are is a brief overview of the website layout. We hope you have an enjoyable experience browsing through the website!
 ### [Hardware](https://ftccats.github.io/Intro_Hardware)
 - [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
-    * [CAD](https://ftccats.github.io/CADwithPTC)
+    * [CAD](https://ftccats.github.io/software/CADwithPTC)
     * [Chassis](https://ftccats.github.io/Chassis)
-    * [Drive Train](https://ftccats.github.io/drivetrain)
+    * Drive Train
     * Attachments
 - [Electronics](https://ftccats.github.io/Electronics)
     * [Range Sensor](https://ftccats.github.io/software/rangesensor)
