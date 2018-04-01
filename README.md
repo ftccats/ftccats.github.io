@@ -20,9 +20,9 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
     * Gyro Sensor  
     
 ### [Software](https://ftccats.github.io/Intro_Software)
-- [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
-- [Programming your robot](https://ftccats.github.io/ProgrammingBasics)
-- [PTC Creo](https://ftccats.github.io/CADwithPTC)  
+- [Downloading Android Studio](https://ftccats.github.io/software/SourceControlAndroidStudio)
+- [Programming your robot](https://ftccats.github.io/software/ProgrammingBasics)
+- [PTC Creo](https://ftccats.github.io/software/CADwithPTC)  
 
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - [Engineering notebook(Please Update)](https://ftccats.github.io/EngineerBook)
