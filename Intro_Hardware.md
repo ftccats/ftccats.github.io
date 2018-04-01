@@ -26,6 +26,6 @@ During the process of building the robot, selections of the materials are crucia
   * [Distribution Module Guides](https://ftccats.github.io/WiringDistributionModules)  
   
   The electrical engineering of a robot can also include the different sensors that are used on the robot. Some of these are:
-  * [Range Sensor](https://ftccats.github.io/RangeSensor)
+  * [Range Sensor](https://ftccats.github.io/software/RangeSensor)
   * [Color Sensor]
   * [Gyro Sensor]
