@@ -10,7 +10,7 @@ This site intends to explain the essentials of starting a team.
 Here are is a brief overview of the website layout. We hope you have an enjoyable experience browsing through the website!
 ### [Hardware](https://ftccats.github.io/Intro_Hardware)
 - [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
-    * [CAD](https://ftccats.github.io/CADWithPTC)
+    * [CAD](https://ftccats.github.io/CADwithPTC)
     * [Chassis](https://ftccats.github.io/Chassis)
     * [Drive Train](https://ftccats.github.io/drivetrain)
     * Attachments
@@ -22,7 +22,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
 ### [Software](https://ftccats.github.io/Intro_Software)
 - [Downloading Android Studio](https://ftccats.github.io/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/ProgrammingBasics)
-- [PTC Creo](https://ftccats.github.io/CADWithPTC)  
+- [PTC Creo](https://ftccats.github.io/CADwithPTC)  
 
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - [Engineering notebook(Please Update)](https://ftccats.github.io/EngineerBook)
