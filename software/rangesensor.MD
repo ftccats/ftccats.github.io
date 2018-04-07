@@ -131,5 +131,7 @@ Adding on, the UML class diagram would be less cluttered and methds are easily i
 
 Related
 =======
+
 [Color Sensor](http://ftccats.github.io/software/colorsensor)
+
 [Gyro Sensor](http://ftccats.github.io/software/gyrosensor)
