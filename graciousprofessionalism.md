@@ -8,10 +8,14 @@ When a person refers to Gracious Professionalism, it is supposed to help one thr
 collaboration on robotics projects, but it is also supposed to help people with learning life lessons about how to learn through life and
 struggle to accomplish their goals.
 
+## Definition of Gracious Professionalism
+
+According to FIRST, Gracious Professionalism is a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community. 
+
 ## Beyond Gracious Professionalsim
 
 Gracious Professionalism is not just one part of FTC, but also a key part toward making friends and collaborating well with people in
-school. Through helping others and learning together through competition, it creates a bond that allows for opportunities.
+school. Through helping others and learning together through competition, it creates a bond that allows for opportunities. Also, to understand it fully, we need to know that it is not just to encourage work and emphasize the value, it makes you be professional, not goofing off to show you really care, and to be gracious, kind and nice to others, and only constructive criticism.
 
 ## First Definition of Gracious Professionalism
 
@@ -20,6 +24,5 @@ to expect - of the program nor of themselves. They leave, even after the first s
 that they can create their own future." ~ Dean Kamen
 
 ## Our Thoughts
-
 
 "FIRST teaches us a lesson on more than just working on robots. Robotics can get you to learn about robots, but only through Gracious Professionalism can you learn to love." ~ Ethan Hu
