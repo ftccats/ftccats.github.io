@@ -6,5 +6,5 @@ Our current relic grabber (check the sources link) pushes the relic against the 
 
 ### Sources
 
-[Relic Recovery Game](https://www.firstinspires.org/robotics/ftc/game-and-season)
-[Relic Grabber](https://www.thingiverse.com/thing:2665043)
+* What the 2017-2018 FTC game is click [here](https://www.firstinspires.org/robotics/ftc/game-and-season)
+* Thanks to ArtemusMaximus on Thingiverse, and coach , we have the [Relic Grabber](https://www.thingiverse.com/thing:2665043)
