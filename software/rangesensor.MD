@@ -21,7 +21,20 @@ An image of a Rev Range Sensor is shown here.
 # Implementation
 
 Since the Range Sensor combines the state and behavior of both the  ultrasonic and optical distance sensor Object, one should know the
-implementation for the Four Wire I2C Sensor.
+implementation for the Four Wire I2C Sensor. To implement such a Opticl Distance Sensor Algorithm, in English it will look like:
+``` java
+package org.firstinspires.ftc.robotcontroller.external.samples;
+import . . .
+public class RangeSensorImplementation extends LinearOpMode {
+    ModernRoboticsI2cRangeSensor rangesensor;
+    public void runOpMode() {
+        /*
+          The method will display the distance from objects.
+        */
+        //implementation is not shown
+    }
+}
+```
 
 ### Some things that should be noted:
 
@@ -32,7 +45,7 @@ distances.
 # Range Sensor Code Explanation
 The Code Is Shown Here:
 
-```java
+``` java
 /* Copyright (c) 2017 FIRST. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without modification,
