@@ -24,7 +24,7 @@ Since the Range Sensor combines the state and behavior of both the  ultrasonic a
 implementation for the Four Wire I2C Sensor. To implement such a Opticl Distance Sensor Algorithm, in English it will look like:
 ``` java
 package org.firstinspires.ftc.robotcontroller.external.samples;
-import . . .
+import ...
 public class RangeSensorImplementation extends LinearOpMode {
     ModernRoboticsI2cRangeSensor rangesensor;
     public void runOpMode() {
