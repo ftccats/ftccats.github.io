@@ -15,9 +15,9 @@ The ultrasonic element works by one of the transducers emitting a sound wave and
 
 The optical element works by emitting infrared light from on LED and receiving infrared light to the other LED. The optical value can detect objects within 15cm. As an object approaches the optical element the returned value will increase at an exponential rate. 
 
-An image of a Rev Range Sensor is shown here.
+An image of a Modern Robotics Range Sensor is shown here.
 ![alt text](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/Distance%20Sensor.jpg)
-
+![alt text](https://github.com/ftccats/ftccats.github.io/blob/master/0000400_range-sensor_500.png)
 # Implementation
 
 Since the Range Sensor combines the state and behavior of both the  ultrasonic and optical distance sensor Object, one should know the
