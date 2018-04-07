@@ -81,7 +81,6 @@ import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.OpticalDistanceSensor;
-
 /*
  * This is an example LinearOpMode that shows how to use
  * a Modern Robotics Optical Distance Sensor
@@ -129,3 +128,8 @@ new OpticalDistanceSensor that will inherit the properties of a LinearOpMode. Th
 the program to inherit the proerties of LinearOpMode and will allow for DRY and very consistent
 procedural decomposition without having to repeat code. It would also make code more organized. 
 Adding on, the UML class diagram would be less cluttered and methds are easily identifiable.
+
+Related
+=======
+[Color Sensor](http://ftccats.github.io/software/colorsensor)
+[Gyro Sensor](http://ftccats.github.io/software/gyrosensor)
