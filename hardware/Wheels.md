@@ -1,4 +1,4 @@
-
+ Another e
 ## Intro to Wheels
 Although other methods exist, wheels are by far the most common method of movement for robots.
 ## Wheel Summaries
@@ -16,4 +16,4 @@ Omni wheels have a rather niche role of allowing robots using standard wheels to
 ## Mecanum Wheels
 Almost all high level teams will use these. They greatly increase movement options but also are more difficult to handle. More information can be found [here] (https://ftccats.github.io/software/ProgrammingMecanumWheels)
 ## Other wheels
-Other examples of wheels is the flywheels. These are used to quickly launch a projectile by running the wheels at a high speed and putting the projectile between the wheels. These are usually only used in very specific contexts such 2016's Velocity Vortex challenge.
+Other examples of wheels is the flywheels. These are used to quickly launch a projectile by running the wheels at a high speed and putting the projectile between the wheels. These are usually only used in very specific contexts such 2017's Velocity Vortex challenge. Another example is building collectors, such as in 2018's Relic Recovery, where teams often collected glyphs using inverse flywheels.
