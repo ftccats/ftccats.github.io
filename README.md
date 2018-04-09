@@ -1,5 +1,3 @@
-Welcome to the Team 11138 Website
-
 ### About The site
 Hello, this is FTC Team 11138 and we are from Bellevue, Washington. We all have a passion for robotics. We believe that through robotics and "Gracious Professionalism", we are all able to learn and collaborate in a welcoming learning environment.
 
