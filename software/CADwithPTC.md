@@ -1,7 +1,8 @@
 In order to start to CAD, you need to make sure to have the necessary materials. In general, every kid needs a non-entry level laptop for good experience, mainly the software needs 3D capable graphics card with OpenGL support. 
-For a full list, click [here.][Full list]
+For a full list, click [here.][Full list] The computer needs to have these [requirements][Requirements] in order to download PTC Creo.
 
 [Full list]:http://support.ptc.com/partners/hardware/current/support.htm
+[requirements]:https://support.ptc.com/products/creo-elements-direct/modeling-express/system-requirements.htm 
 Click [here][PTC Download] to download the PTC tool.  
 First you want to make an account. Fill out the boxes, and submit. You will recieve an email to establish your account. When you have finished registering your account, click the link following Installation Instructions. It will bring you to another page, where you will want to click the first link. From there, click the download manager for the 4.0 Win 64 DVD. Wait for the folder to download, then you can start to use CAD!
 
