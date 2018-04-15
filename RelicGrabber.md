@@ -11,4 +11,4 @@ Our relic grabber have two servos. one to operate the hook in the relic grabber,
 ### Sources
 
 * What the 2017-2018 FTC game is click [here](https://www.firstinspires.org/robotics/ftc/game-and-season)
-* Thanks to ArtemusMaximus on Thingiverse, and coach , we have the [Relic Grabber](https://www.thingiverse.com/thing:2665043)
+* Thanks to ArtemusMaximus on Thingiverse, and their coach , we have the [Relic Grabber](https://www.thingiverse.com/thing:2665043)
