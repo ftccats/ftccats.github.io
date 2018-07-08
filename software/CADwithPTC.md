@@ -35,6 +35,6 @@ If that happens to you, just click on one of the links, and it will help you fix
 [Placement]:https://community.ptc.com/t5/Additional-Creo-Questions/Placement-disapperaed/m-p/288454#M25236
 ### CAD Examples
 
-Something I made on CAD was a spool. ![Spool](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/images/spool%20example.PNG)
-I 3D printed the spool, and we used it to make it easier to make the slider move.
-Another item I made is a phone holder, which would hold the phone on the robot. It has a camera spot, and a charger spot. ![Phone Holder](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/images/phoneholderexample.PNG)
+Something we made on CAD was a spool. ![Spool](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/images/spool%20example.PNG)
+We 3D printed the spool and used it to make it easier to make the slider move.
+Another item we made is a phone holder, which would hold the phone on the robot. It has a camera spot, and a charger spot. ![Phone Holder](https://raw.githubusercontent.com/ftccats/ftccats.github.io/master/images/phoneholderexample.PNG)
