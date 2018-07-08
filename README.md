@@ -18,7 +18,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
 - [Building your robot](https://ftccats.github.io/Hardware_BuildingYourRobot)
     * [CAD](https://ftccats.github.io/software/CADwithPTC)
     * [Chassis](https://ftccats.github.io/Chassis)
-    * Drive Train
+    * [Drive Train](https://ftccats.github.io/hardware/drivetrain)
     * [Attachments](https://ftccats.github.io/Attachments)
 - [Electronics](https://ftccats.github.io/Electronics)
     * [Range Sensor](https://ftccats.github.io/software/rangesensor)
