@@ -29,6 +29,7 @@ Here are is a brief overview of the website layout. We hope you have an enjoyabl
 - [Downloading Android Studio](https://ftccats.github.io/software/SourceControlAndroidStudio)
 - [Programming your robot](https://ftccats.github.io/software/ProgrammingBasics)
 - [PTC Creo](https://ftccats.github.io/software/CADwithPTC)  
+- [Github](https://ftccats.github.io/software/ProgrammingSourceControl)
 
 ### [Meta](https://ftccats.github.io/Intro_Meta)
  - [Engineering notebook(Please Update)](https://ftccats.github.io/EngineerBook)
