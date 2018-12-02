@@ -48,7 +48,7 @@ The level of the material need to be clear to rookie teams so they can overcome 
 The long term goal is setting up a Compute-Aided-Teaching system to 
 *	Cultivate interesting in STEM. 
 *	Speed up the learning. 
-*	Encourage sharing and communication.
+*	Encourage sharing and communication.  
 Link to our github: https://github.com/RoboEclipse/ftc_app
 
 You can contact us at ftccats@gmail.com, [instagram](https://www.instagram.com/roboeclipse_ftc/), and [twitter](https://twitter.com/Roboeclipse_ftc)  
