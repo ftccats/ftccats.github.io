@@ -51,7 +51,8 @@ The long term goal is setting up a Compute-Aided-Teaching system to
 *	Encourage sharing and communication.  
 
 
-Link to our github: https://github.com/RoboEclipse/ftc_app
+Link to our github: https://github.com/RoboEclipse/ftc_app  
+Relevant code mostly in the "Robot 1" Folder
 
 You can contact us at ftccats@gmail.com, [instagram](https://www.instagram.com/roboeclipse_ftc/), and [twitter](https://twitter.com/Roboeclipse_ftc)  
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.'
