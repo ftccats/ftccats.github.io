@@ -7,7 +7,7 @@ Gracious professionalism for our team meanings
 1.	Fearlessly learn multiple engineering disciplines to solve a problem. 
 2.	Be respectful and grateful and share what you learned. 
 
-The site intends to explain the essentials of be a team member.
+The site intends to explain the essentials of being a team member.
 *	Indexed high quality educational materials.
 *	Share First Hand Experience to overcome typical setup technical challenges.
 *	The Share the process to finish a project and best practices 
