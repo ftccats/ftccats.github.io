@@ -1,0 +1,1 @@
+AutoTransition is how to avoid the issue of lag occurring during the initialization process. The Auto Transition is what allows for the smooth transition of the robot from autonomous movement to driver control
